@@ -1,3 +1,8 @@
 uploads
 .env
+config
+routes
+node_modules
+package-lock.json
+package.json
 
